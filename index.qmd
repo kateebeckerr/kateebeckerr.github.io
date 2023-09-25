@@ -1,9 +1,35 @@
 ---
-title: "kateebeckerr.github.io"
+title: "Kate Becker"
+image : katebecker.jpg
+toc : false
+about :
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kate-becker-b3163a193/
+      icon: linkedin
+    - text : GitHub
+      icon : github
+      href : https://github.com/kateebeckerr
+    - text: Email
+      href: mailtto::katebecker@ucsb.edu
+      icon: inbox
 ---
 
-This is a Quarto website.
+This is my Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-Hi this is Kate! 
+Hi this is Kate! Welcome to my Website 
+
+Education 
+
+
+Experience 
+ 
+  ucsb graduate pursuing a masters in environmental data science 
+ 
+
+ 
+ 

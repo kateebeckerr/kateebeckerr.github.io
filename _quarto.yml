@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "kateebeckerr.github.io"
+  title: "Kate Becker"
   navbar:
     left:
       - href: index.qmd
@@ -16,6 +16,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
