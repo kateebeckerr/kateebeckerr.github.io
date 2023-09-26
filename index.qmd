@@ -1,6 +1,6 @@
 ---
 title: "Kate Becker"
-image : katebecker.jpg
+image : images/katebecker.jpg
 toc : false
 about :
   template: trestles
