@@ -4,21 +4,38 @@ project:
   
 
 website:
-  title: "Kate Becker"
   navbar:
+    title: "Kate Becker"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources2.qmd
         text: Resources
-
+      - href: Resume_CV/KateBecker_Resume.pdf
+        text: Resume 
+    right: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kate-becker-b3163a193/
+      icon: linkedin
+    - text : GitHub
+      icon : github
+      href : https://github.com/kateebeckerr
+    - text: Email
+      href: mailtto::katebecker@ucsb.edu
+      icon: inbox
+  page-footer: 
+    background: light 
+    left: "Copyright 2023, Kate Becker"
+    right: 
+      - icon: github
+        href: https://github.com/kateebeckerr
+      
 format:
   html:
     theme: 
-      light: minty
-      dark: darkly
-    css: styles.css
+      - styles.scss
+    mainfont: Roboto
     toc: true
     page-layout: full
 

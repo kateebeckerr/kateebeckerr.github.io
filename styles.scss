@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+// Colors
+$hot-pink: #df19b7 ;
+$dark-orange: #df4d19 ;
+$cream: #fceae4 ;
+
+//base document Colors 
+$navbar-bg: $cream;
+$navbar-fg: $hot-pink;
+$body-bg: $dark-orange;
+$footer-bg: $cream;
+$link-color: $dark-orange;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  letter-spacing: 5px;
+  color: $dark-orange;
+  
+}
+
+.title {
+  color: red;
+}
+
+.center-text {
+  text-align: center;
+  
+}  
