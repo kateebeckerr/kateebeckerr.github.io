@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My first blog post!\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nYay, welcome to my blog, can’t wait to share this with you all!\n\n\n\nKate Becker\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kate Becker",
     "section": "",
-    "text": "This is my Quarto website.\nHi this is Kate! Welcome to my Website\nEducation\nExperience\nucsb graduate pursuing a masters in environmental data science"
+    "text": "Hi this is Kate! Welcome to my Website!\n\nEducation\nUniversity of California, Santa Barbara Bachelor of Science in Environmental Studies\nUniversity of California, Santa Barbara graduate pursuing a Masters in Environmental Data Science\n\n\nExperience"
+  },
+  {
+    "objectID": "posts/2023-10-23-first-post/index.html",
+    "href": "posts/2023-10-23-first-post/index.html",
+    "title": "My first blog post!",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{becker2023,\n  author = {Becker, Kate},\n  title = {My First Blog Post!},\n  date = {2023-10-23},\n  url = {https://samanthacski.github.io/blog/2023-11-06-my-first-blog},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBecker, Kate. 2023. “My First Blog Post!” October 23, 2023.\nhttps://samanthacski.github.io/blog/2023-11-06-my-first-blog."
   },
   {
     "objectID": "resources2.html",

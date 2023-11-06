@@ -5,21 +5,21 @@
 
 // Colors
 $hot-pink: #df19b7 ;
-$dark-orange: #df4d19 ;
+$light-green: #bac999 ;
 $cream: #fceae4 ;
 
 //base document Colors 
 $navbar-bg: $cream;
 $navbar-fg: $hot-pink;
-$body-bg: $dark-orange;
+$body-bg: $light-green;
 $footer-bg: $cream;
-$link-color: $dark-orange;
+$link-color: $light-green;
 
 /*-- scss:rules --*/
 
 h1, h2 {
   letter-spacing: 5px;
-  color: $dark-orange;
+  color: $hot-pink;
   
 }
 

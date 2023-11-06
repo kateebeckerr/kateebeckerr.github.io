@@ -14,6 +14,7 @@ website:
         text: Resources
       - href: Resume_CV/KateBecker_Resume.pdf
         text: Resume 
+      - posts.qmd
     right: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/kate-becker-b3163a193/
