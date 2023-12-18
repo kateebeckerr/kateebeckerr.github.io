@@ -4,27 +4,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 // Colors
-$hot-pink: #df19b7 ;
-$light-green: #bac999 ;
+$blue-green: #0b475e ;
+$white: #fcfcfc ;
 $cream: #fceae4 ;
+$navy: #6d91c5 ;
+$forestgreen: #02722a ;
 
 //base document Colors 
-$navbar-bg: $cream;
-$navbar-fg: $hot-pink;
-$body-bg: $light-green;
-$footer-bg: $cream;
-$link-color: $light-green;
+$navbar-bg: $blue-green;
+$navbar-fg: $white;
+$body-bg: $white;
+$footer-bg: $blue-green;
+$link-color: $forestgreen;
 
 /*-- scss:rules --*/
 
 h1, h2 {
   letter-spacing: 5px;
-  color: $hot-pink;
+  color: $blue-green;
   
 }
 
 .title {
-  color: red;
+  color: $blue-green;
 }
 
 .center-text {
