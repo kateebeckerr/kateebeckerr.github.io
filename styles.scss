@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+// Colors
+$blue-green: #0b475e ;
+$white: #fcfcfc ;
+$cream: #fceae4 ;
+$navy: #6d91c5 ;
+$forestgreen: #02722a ;
+
+//base document Colors 
+$navbar-bg: $blue-green;
+$navbar-fg: $white;
+$body-bg: $white;
+$footer-bg: $blue-green;
+$link-color: $forestgreen;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  letter-spacing: 5px;
+  color: $blue-green;
+  
+}
+
+.title {
+  color: $blue-green;
+}
+
+.center-text {
+  text-align: center;
+  
+}  

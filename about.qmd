@@ -4,6 +4,14 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+
+<h1>this is an `<h1>` element</h1> # alternatively, you can write <h1> elements using markdown (`# this is an `<h1>` element`)</h1>
+
+# this is an `<h1>` element</h1> # alternatively, you can write <h1> elements using markdown (`# this is an `<h1>` element`)
+
+<h1 class="title">this is an `<h1>` element of class.title</h1>
+
+<p>this is a `<p>` element</p>
+
+<p class="title">this is a `<p>` element of class `title`</p>
+

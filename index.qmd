@@ -18,18 +18,12 @@ about :
       icon: inbox
 ---
 
-This is my Quarto website.
+Hi this is Kate! Welcome to my Website!
 
+# Education 
 
-Hi this is Kate! Welcome to my Website 
+University of California, Santa Barbara Bachelor of Science in Environmental Studies
 
-Education 
+University of California, Santa Barbara graduate pursuing a Masters in Environmental Data Science
 
-
-Experience 
- 
-  ucsb graduate pursuing a masters in environmental data science 
- 
-
- 
- 
+# Experience
