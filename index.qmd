@@ -1,9 +1,9 @@
 ---
-title: "Kate Becker"
+title: ""
 image : images/katebecker.jpg
 toc : false
 about :
-  template: trestles
+  template: jolla
   image-shape: rounded
   image-width: 15em
   links: 
@@ -18,12 +18,4 @@ about :
       icon: inbox
 ---
 
-Hi this is Kate! Welcome to my Website!
-
-# Education 
-
-University of California, Santa Barbara Bachelor of Science in Environmental Studies
-
-University of California, Santa Barbara graduate pursuing a Masters in Environmental Data Science
-
-# Experience
+Hi, Kate Becker here! I've created this page to share my love for environmental science and management specifically within the marine science and fisheries management field. I've spent my last few years obtaining a Bachelor's of Science in Environmental Studies and a Master's of Environmental Data Science. My hope is to utilize large and complex data sets in order to analyze and effectively communicate my findings to the public. I also hope to make research plans, use electronic system cameras and gear sensors, perform data collection in the field, andertake fish stock assessments, and conduct ecological risk assessments. Outside of my education and employment interests, I enjoy snowboarding, backpacking, and just about anything to do with the ocean. Feel free to take a look at my work and learn more about me! 

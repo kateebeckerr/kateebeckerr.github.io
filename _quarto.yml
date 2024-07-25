@@ -5,13 +5,15 @@ project:
 
 website:
   navbar:
-    title: "Kate Becker"
+    title: "Kate A. Becker"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources2.qmd
         text: Resources
+      - href: projects.qmd
+        text: My Projects 
       - href: Resume_CV/KateBecker_Resume.pdf
         text: Resume 
       - posts.qmd
@@ -23,7 +25,7 @@ website:
       icon : github
       href : https://github.com/kateebeckerr
     - text: Email
-      href: mailtto::katebecker@ucsb.edu
+      href: mailtto::katebecker06@gmail.com
       icon: inbox
   page-footer: 
     background: light 

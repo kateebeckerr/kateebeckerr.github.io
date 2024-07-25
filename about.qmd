@@ -1,17 +1,44 @@
 ---
 title: "About"
+image : images/sunset-revise.png
+toc : false
+about :
+  template: jolla
+  image-shape: rounded
+  image-width: 60em
 ---
 
-About this site
+### Education 
+Master of Environmental Data Science (June 2024)
+Bren School of Environmental Science & Management –- University of California, Santa Barbara (UCSB)
+
+Bachelor of Science in Environmental Studies (June 2023)
+University of California, Santa Barbara (UCSB)
+  Concentrations: Environmental Policy, Sustainability, Climate Change, and Conservation
+
+### Experience
+International Academic Field Studies Program: Wildlands Studies Hawaii, Big Island, Hawaii (3/21–5/21); Focus on marine and terrestrial field research as well as indigenous marine management and food systems
+
+Eliason Lab
+University of California, Santa Barba Eliason Lab – UCSB, Santa Barbara, CA	
+•	Investigated thermal tolerance of fishes under fluctuating temperatures and varying diet quality using cardiovascular performance as a metric
+
+Summer Intern, Eliason Lab 
+UCSB, Santa Barbara, CA
+•	Investigation of parasite load, Euhaplorchis californiensis, in the brain regions of California killifish, Fundulus parvipinnis, as it pertains to thermal tolerance
+•	Awarded UCSB Coastal Fund 
 
 
-<h1>this is an `<h1>` element</h1> # alternatively, you can write <h1> elements using markdown (`# this is an `<h1>` element`)</h1>
+### Technical Skills 
 
-# this is an `<h1>` element</h1> # alternatively, you can write <h1> elements using markdown (`# this is an `<h1>` element`)
+Spatial Mapping in ArcGIS, Statistical Analysis and Data Visualization in R Studio, Python, Google Workspace, Scientific Writing, R, Python, SQL, Git, (Basic) Command Line, Microsoft Office (Word, Excel, PowerPoint), Java, HTML, and CSS
 
-<h1 class="title">this is an `<h1>` element of class.title</h1>
+### Research Qualifications
+IACUC Training (Fish), CITI Wildlife Research, CITI Working with Fish in Research Settings
 
-<p>this is a `<p>` element</p>
+### Certification
+PADI Open Water Diver
 
-<p class="title">this is a `<p>` element of class `title`</p>
+### Additional Education
+University of Queensland, Australia UCEAP Study Abroad Program (Winter 2021 and Spring 2021); Accepted twice into competitive academic program but canceled due to COVID-19; Marine Biology and Terrestrial Ecology courses while working in conjunction with the Heron Island Research Station
 
