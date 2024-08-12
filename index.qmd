@@ -14,8 +14,23 @@ about :
       icon : github
       href : https://github.com/kateebeckerr
     - text: Email
-      href: mailtto::katebecker@ucsb.edu
+      href: mailto:katebecker06@gmail.com
       icon: inbox
 ---
 
-Hi, Kate Becker here! I've created this page to share my love for environmental science and management specifically within the marine science and fisheries management field. I've spent my last few years obtaining a Bachelor's of Science in Environmental Studies and a Master's of Environmental Data Science. My hope is to utilize large and complex data sets in order to analyze and effectively communicate my findings to the public. I also hope to make research plans, use electronic system cameras and gear sensors, perform data collection in the field, andertake fish stock assessments, and conduct ecological risk assessments. Outside of my education and employment interests, I enjoy snowboarding, backpacking, and just about anything to do with the ocean. Feel free to take a look at my work and learn more about me! 
+
+Hi, I’m Kate Becker!
+
+Welcome to my personal page, where I share my passion for Environmental Science and highlight my experience in the field.
+
+My journey into environmental science truly began during an academic field studies program in Hawai’i, which opened my eyes to the human rights abuses linked to environmental injustices. I had the privilege of working directly with indigenous communities to address food insecurity, establish marine protected areas through spatial mapping, and combat the erosion of native culture and language caused by historic colonialism.
+
+Over the past few years, I’ve worked as an undergraduate researcher in Erika Eliason’s Lab at UCSB, where I explored the thermal tolerance of fish under fluctuating temperatures and varying diets, using cardiovascular performance as a key metric. This experience deepened my commitment to bridging the gap between equal access to basic human rights and the conservation of marine food resources.
+
+In 2022, I graduated from the University of California, Santa Barbara (UCSB) with a Bachelor of Science in Environmental Studies. Most recently, I earned a Master’s in Environmental Data Science from the Bren School of Environmental Science and Management at UCSB. With this advanced training, I aim to leverage data science skills in machine learning and reproducibility to influence marine conservation policies, foster sustainable food systems, and combat environmental injustices faced by indigenous communities.
+
+I’m proficient in R Studio, Python, GIS, and SQL, and I bring a strong skill set in product management, collaborative problem-solving, web application development, geospatial modeling, and statistical analysis. With over three years of experience in marine and environmental science, I am driven by a deep passion for environmental sustainability, policy, and conservation.
+
+When I’m not working, you can find me snowboarding, backpacking, scuba diving, traveling, practicing yoga, or enjoying anything related to the ocean!
+
+Feel free to explore this site and learn more about my work and interests. 
