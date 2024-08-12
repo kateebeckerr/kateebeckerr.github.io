@@ -1,5 +1,5 @@
 ---
-title: "LandCover"
+title: "Satellite Land Cover Analysis"
 author: "Kate Becker"
 date: "2023-12-14"
 format:
