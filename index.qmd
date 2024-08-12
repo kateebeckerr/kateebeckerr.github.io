@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Welcome"
 image : images/katebecker.jpg
 toc : false
 about :
   template: jolla
   image-shape: rounded
-  image-width: 15em
+  image-width: 20em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/kate-becker-b3163a193/
