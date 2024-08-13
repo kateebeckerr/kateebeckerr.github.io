@@ -10,7 +10,7 @@ about :
 
 ### Education 
 *Master of Environmental Data Science (June 2024)
-* Bren School of Environmental Science & Management –- University of California, Santa Barbara (UCSB)
+* Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
 
 * Bachelor of Science in Environmental Studies (June 2023)
 * University of California, Santa Barbara (UCSB)
@@ -46,7 +46,6 @@ IACUC Training (Fish), CITI Wildlife Research, CITI Working with Fish in Researc
 
 ### Certification
 PADI Open Water Diver
-
 
 ### Writing, Research, and Presentation
 Report writing, literature review, policy memos, and public presentations 
