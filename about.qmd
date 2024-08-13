@@ -1,6 +1,5 @@
 ---
 title: "My Background"
-image : images/sunset-revise.png
 toc : false
 about :
   template: jolla
@@ -8,44 +7,95 @@ about :
   image-width: 60em
 ---
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/full-sun.jpg" alt="Sunset" style="width: 30%; height: auto;">
+  <img src="images/hiking.jpg" alt="Mountain" style="width: 30%; height: auto;">
+  <img src="images/beachhike.jpg" alt="Beach" style="width: 30%; height: auto;">
+  <img src="images/dive.jpg" alt="Dive" style="width: 30%; height: auto;">
+  <img src="images/dive-shop.jpg" alt="Shop" style="width: 30%; height: auto;">
+</div>
+
+
+
 ### Education 
-*Master of Environmental Data Science (June 2024)
-* Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
 
-* Bachelor of Science in Environmental Studies (June 2023)
-* University of California, Santa Barbara (UCSB)
-  * Concentrations: Environmental Policy, Sustainability, Climate Change, and Conservation
-
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>Master of Environmental Data Science (June 2024)</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li>Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)</li>
+    </ul>
+  </li>
+  <li><strong>Bachelor of Science in Environmental Studies (June 2023)</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li>University of California, Santa Barbara (UCSB)
+        <ul style="list-style-type: none; padding-left: 20px;">
+          <li>Concentrations: Environmental Policy, Sustainability, Climate Change, and Conservation</li>
+        </ul>
+  </li>
+</ul>
 
 ### Academic Experience
-* International Academic Field Studies Program
-* Wildlands Studies Hawaii, Big Island, Hawaii
-  *  Focus on marine and terrestrial field research as well as indigenous marine management and food systems
 
-Eliason Lab
-* University of California, Santa Barba Eliason Lab – UCSB, Santa Barbara, CA	
-  * Investigated thermal tolerance of fishes under fluctuating temperatures and varying diet quality using cardiovascular performance as a metric
-
-* Summer Intern, Eliason Lab 
-* UCSB, Santa Barbara, CA
-  * Investigation of parasite load, Euhaplorchis californiensis, in the brain regions of California killifish, Fundulus parvipinnis, as it pertains to thermal tolerance
-  * Awarded UCSB Coastal Fund 
-
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>International Academic Field Studies Program</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li>Wildlands Studies Hawaii, Big Island, Hawaii
+        <ul style="list-style-type: none; padding-left: 20px;">
+          <li>Focus on marine and terrestrial field research as well as indigenous marine management and food systems</li>
+        </ul>
+  </li>
+  <li><strong>Researcher, Eliason Lab</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li>University of California, Santa Barbara Eliason Lab – UCSB, Santa Barbara, CA
+        <ul style="list-style-type: none; padding-left: 20px;">
+          <li>Investigated thermal tolerance of fishes under fluctuating temperatures and varying diet quality using cardiovascular performance as a metric</li>
+        </ul>
+  </li>
+  <li><strong>Summer Intern, Eliason Lab</strong>
+      <ul style="list-style-type: none; padding-left: 20px;">
+          <li>Investigation of parasite load, Euhaplorchis californiensis, in the brain regions of California killifish, Fundulus parvipinnis, as it pertains to thermal tolerance</li>
+          <li>Awarded UCSB Coastal Fund</li>
+        </ul>
+  
 ### Guest Service Experience
-* Fine Dining Waitress, The Kitchen American Bistro, Boulder, CO (7/24–Present)
-* Fine Dining Waitress, The Ritz-Carlton Bacara, Santa Barbara, CA (6/21–1/22)
-* Boutique Sales Associate Stella E Luna Boutique, Point Pleasant, NJ (5/19–10/19)
-* Food Service Shore Fresh Seafood Restaurant & Market, Point Pleasant, NJ (6/18–10/18)
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>Fine Dining Waitress</strong>, The Kitchen American Bistro, Boulder, CO (7/24–Present)</li>
+  <li><strong>Fine Dining Waitress</strong>, The Ritz-Carlton Bacara, Santa Barbara, CA (6/21–1/22)</li>
+  <li><strong>Boutique Sales Associate</strong>, Stella E Luna Boutique, Point Pleasant, NJ (5/19–10/19)</li>
+  <li><strong>Food Service</strong>, Shore Fresh Seafood Restaurant & Market, Point Pleasant, NJ (6/18–10/18)</li>
+</ul>
 
 ### Technical Skills 
 
-Spatial Mapping in ArcGIS, Statistical Analysis and Data Visualization in R Studio, UX Design, Python, Machine Learning, Google Workspace, Scientific Writing, R, Python, SQL, Git, (Basic) Command Line, Microsoft Office (Word, Excel, PowerPoint), Java, HTML, and CSS
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>Spatial Mapping in ArcGIS</li>
+  <li>Statistical Analysis and Data Visualization in R Studio</li>
+  <li>UX Design</li>
+  <li>Python</li>
+  <li>Machine Learning</li>
+  <li>Google Workspace</li>
+  <li>Scientific Writing</li>
+  <li>R, Python, SQL, Git, (Basic) Command Line, Microsoft Office (Word, Excel, PowerPoint), Java, HTML, and CSS</li>
+</ul>
 
 ### Research Qualifications
-IACUC Training (Fish), CITI Wildlife Research, CITI Working with Fish in Research Settings
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>IACUC Training (Fish)</li>
+  <li>CITI Wildlife Research</li>
+  <li>CITI Working with Fish in Research Settings</li>
+</ul>
 
 ### Certification
-PADI Open Water Diver
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>PADI Open Water Diver</li>
+</ul>
 
 ### Writing, Research, and Presentation
-Report writing, literature review, policy memos, and public presentations 
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>Report writing, literature review, policy memos, and public presentations</li>
+</ul>
