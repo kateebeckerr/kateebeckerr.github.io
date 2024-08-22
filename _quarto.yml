@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Resume_CV/ShakaResumeNew.pdf
+      - href: Resume_CV/CareerResume.pdf
         text: Resume 
       - posts.qmd
     right: 
