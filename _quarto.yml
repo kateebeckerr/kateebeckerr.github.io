@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Resume_CV/CareerRes.pdf
+      - href: Resume_CV/Resume-AUS.pdf
         text: Resume 
       - posts.qmd
     right: 
