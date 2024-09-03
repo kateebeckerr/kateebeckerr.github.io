@@ -7,7 +7,7 @@ author:
     affiliation: Master of Environmental Data Science Program at The Bren School (UCSB)
     affiliation-url: https://ucsb-meds.github.io/ 
 date: 12-10-2023
-categories: [MEDS, ETHICS, POLICY, DATA ACCESS, CASE STUDIES]
+categories: [ETHICS, POLICY, DATA ACCESS, CASE STUDIES]
 image: enviro-ethics.png
 draft: false 
 ---

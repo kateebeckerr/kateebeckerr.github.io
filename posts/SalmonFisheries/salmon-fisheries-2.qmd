@@ -7,7 +7,7 @@ author:
     affiliation: Master of Environmental Data Science Program @ The Bren School (UCSB) & The National Center for Ecological Analysis & Synthesis
     affiliation-url: https://ucsb-meds.github.io/ 
 date: 03-14-2024
-categories: [Quarto, R, MEDS, Fisheries, Time Series, Salmon, Alaska] # self-defined categories
+categories: [R, MEDS, FISHERIES, TIME SERIES, DATA ACCESS, DEPARTMENT OF FISH AND GAME] # self-defined categories
 citation: 
   url: https://www.npfmc.org/wp-content/PDFdocuments/fmp/Salmon/SalmonFMP.pdf
 image: salmon-boat.jpeg
