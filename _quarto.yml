@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Resume_CV/Resume-AUS.pdf
+      - href: Resume_CV/KateBeckerResume.pdf
         text: Resume 
       - posts.qmd
     right: 

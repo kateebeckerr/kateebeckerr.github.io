@@ -4,7 +4,7 @@ image : images/katebecker.jpg
 toc : false
 about :
   template: jolla
-  image-shape: rounded
+  image-shape: round
   image-width: 20em
   links: 
     - text: LinkedIn
