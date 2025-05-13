@@ -9,32 +9,36 @@ $white: #fcfcfc ;
 $cream: #fceae4 ;
 $navy: #6d91c5 ;
 $forestgreen: #02722a ;
+$tan: #f6e8be ;
+$black: #000000 ;
+$maroon: #7b0926 ;
 
 //base document Colors 
-$navbar-bg: $blue-green;
+$navbar-bg: $maroon;
 $navbar-fg: $white;
 $body-bg: $white;
-$footer-bg: $blue-green;
+$footer-bg: $maroon;
 $link-color: $forestgreen;
+
 
 /*-- scss:rules --*/
 
 h1, h2 {
   letter-spacing: 5px;
-  color: $blue-green;
+  color: $black;
   
 }
 
 .title {
-  color: $blue-green;
+  color: $black;
 }
 
 .center-text {
-  text-align: center;
+  text-align: right;
   
 } 
 
 
 .about-content {
-  text-align: center;
+  text-align: right;
 }

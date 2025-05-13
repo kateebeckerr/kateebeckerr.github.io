@@ -2,11 +2,10 @@
 title: "My Background"
 toc : false
 about :
-  template: jolla
+  template: trestles
   image-shape: rounded
   image-width: 60em
 ---
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/full-sun.jpg" alt="Sunset" style="width: 30%; height: auto;">
@@ -35,7 +34,7 @@ about :
   </li>
 </ul>
 
-### Academic Experience
+### Experience
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>International Academic Field Studies Program</strong>
@@ -44,7 +43,6 @@ about :
         <ul style="list-style-type: none; padding-left: 20px;">
           <li>Focus on marine and terrestrial field research as well as indigenous marine management and food systems</li>
         </ul>
-  </li>
   <li><strong>Researcher, Eliason Lab</strong>
     <ul style="list-style-type: none; padding-left: 20px;">
       <li>University of California, Santa Barbara Eliason Lab – UCSB, Santa Barbara, CA
@@ -52,11 +50,36 @@ about :
           <li>Investigated thermal tolerance of fishes under fluctuating temperatures and varying diet quality using cardiovascular performance as a metric</li>
         </ul>
   </li>
-  <li><strong>Summer Intern, Eliason Lab</strong>
-      <ul style="list-style-type: none; padding-left: 20px;">
-          <li>Investigation of parasite load, Euhaplorchis californiensis, in the brain regions of California killifish, Fundulus parvipinnis, as it pertains to thermal tolerance</li>
-          <li>Awarded UCSB Coastal Fund</li>
+  <li><strong>Senior Research Assistant</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li>Centre for Biodiversity and Conservation Science, University of Queensland – Brisbane, Australia (1/13–Present)
+        <ul style="list-style-type: none; padding-left: 20px;">
+          <li>Designing a global endangered species database using policy evaluation, R, SQL, and web scraping for both academic and non-academic applications</li>
+          <li>Implementing advanced statistical modeling, data cleaning, machine learning, version control, and data visualization to analyze fisheries bycatch patterns in large-scale global datasets for the Ocean Conservation Team</li>
+          <li>Collaborating with industry partners to interpret results and identify strategies for promoting environmentally efficient fishing practices unique to each fishery</li>
+          <li>Co-authoring research publications and resolving computer science challenges alongside a multidisciplinary team</li>
+          <li>Presenting on current research and future development plans at the International Congress for Conservation Biology</li>
+          <li>Secured a small grant to host a workshop, bringing together intergovernmental, governmental, and nonprofit stakeholders</li>
         </ul>
+  </li>
+</ul>
+
+
+<!-- <ul style="list-style-type: none; padding-left: 0;"> -->
+<!--   <li><strong>International Academic Field Studies Program</strong> -->
+<!--     <ul style="list-style-type: none; padding-left: 20px;"> -->
+<!--       <li>Wildlands Studies Hawaii, Big Island, Hawaii -->
+<!--         <ul style="list-style-type: none; padding-left: 20px;"> -->
+<!--           <li>Focus on marine and terrestrial field research as well as indigenous marine management and food systems</li> -->
+<!--         </ul> -->
+<!--   </li> -->
+<!--   <li><strong>Researcher, Eliason Lab</strong> -->
+<!--     <ul style="list-style-type: none; padding-left: 20px;"> -->
+<!--       <li>University of California, Santa Barbara Eliason Lab – UCSB, Santa Barbara, CA -->
+<!--         <ul style="list-style-type: none; padding-left: 20px;"> -->
+<!--           <li>Investigated thermal tolerance of fishes under fluctuating temperatures and varying diet quality using cardiovascular performance as a metric</li> -->
+<!--         </ul> -->
+
   
 ### Guest Service Experience
 
@@ -77,7 +100,9 @@ about :
   <li>Machine Learning</li>
   <li>Google Workspace</li>
   <li>Scientific Writing</li>
-  <li>R, Python, SQL, Git, (Basic) Command Line, Microsoft Office (Word, Excel, PowerPoint), Java, HTML, and CSS</li>
+  <li>R, Python, SQL, Git, (Basic) Command Line </li>
+  <li> Microsoft Office (Word, Excel, PowerPoint) </li>
+  <li> Java, HTML, and CSS </li>
 </ul>
 
 ### Research Qualifications

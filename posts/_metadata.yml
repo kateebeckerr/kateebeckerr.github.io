@@ -1,1 +1,7 @@
-$ python --version
+#$ python --version
+
+
+freeze: auto
+
+#enable banner style titel blocks
+title-block-banner: true
